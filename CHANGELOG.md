@@ -1,4 +1,4 @@
-# Change Log
+! Change Log
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](https://semver.org/).
 
@@ -69,3 +69,4 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 [@aik099]: https://github.com/aik099
 [@betterphp]: https://github.com/betterphp
 [@glensc]: https://github.com/glensc
+ 
